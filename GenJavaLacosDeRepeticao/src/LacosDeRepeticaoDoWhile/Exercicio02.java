@@ -5,11 +5,11 @@ import java.util.Scanner;
  * número zero seja digitado. Ao final, mostre na tela a média de todos os números 
  * digitados, que sejam múltiplos de 3.
  * 
- * Na construção do Algoritmo, utilize os seguintes conteúdos:
- *  Entrada e Saída de dados
- *  Operadores
- *  Laços Condicionais
- *  Laço de Repetição DO...WHILE
+ * 		Na construção do Algoritmo, utilize os seguintes conteúdos:
+ *  	Entrada e Saída de dados
+ *  	Operadores
+ *  	Laços Condicionais
+ *  	Laço de Repetição DO...WHILE
  */
 
 public class Exercicio02 {

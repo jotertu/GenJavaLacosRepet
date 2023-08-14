@@ -27,7 +27,7 @@ public class Exercicio02 {
 				contaPar++;
 			}
 			
-			if(num % 2 == 1) {
+			if(num % 2 != 0) {
 				contaImpar++;
 			}
 		}

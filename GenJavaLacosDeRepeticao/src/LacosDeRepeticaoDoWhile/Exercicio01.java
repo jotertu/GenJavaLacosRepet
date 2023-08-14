@@ -7,7 +7,7 @@ import java.util.Scanner;
  *número zero seja digitado. Ao final, mostre na tela a soma de todos os números
  *digitados, que sejam positivos. Veja o exemplo abaixo:
  *	
- *	Na construção do Algoritmo, utilize os seguintes conteúdos:
+ *	   Na construção do Algoritmo, utilize os seguintes conteúdos:
  * 	   Operadores
  * 	   Laços Condicionais
  * 	   Laço de Repetição DO...WHILE
